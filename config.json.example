@@ -1,9 +1,9 @@
 {
-    "token": "",
-    "clientId": "",
+    "token": "MTQzMDg4NTk4MTU2NDcwMjc1Mw.GTdxRm.t2CYptLhptE7d1zCxZbiFe6fTSJbZkq1HzBiqg",
+    "clientId": "1430885981564702753",
     "weatherApi": "",
-    "MongoDBURI": "",
-    "logsChannelId": "",
+    "MongoDBURI": "mongodb+srv://solocreationsyt_db_user:<db_password>@clusterkiddoo.3lkz5kf.mongodb.net/?appName=Clusterkiddoo",
+    "logsChannelId": "1435819165905719327",
       "statuses": [
        {
           "type": "Playing",
